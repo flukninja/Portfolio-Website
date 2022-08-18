@@ -1,0 +1,93 @@
+.desktop1 {
+  width: 1592px;
+  /* height: 1024px; */
+  height: 650px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  /* background-color: rgba(238, 238, 238, 1); */
+}
+.profilepic1 {
+  top: 99px;
+  left: 174px;
+  width: 350px;
+  height: 400px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.text {
+  top: 99px;
+  left: 670px;
+  /* left: 150px; */
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.text2 {
+  top: 210px;
+  left: 670px;
+  /* left: 150px; */
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.text4 {
+  top: 292px;
+  left: 670px;
+  /* left: 150px; */
+  /* width: 700px; */
+  width: 650px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  line-height: 1.8em;
+}
+
+@media(max-width: 1200px) {
+  .desktop1 {
+    width: 100%;
+    background-color: ghostwhite;
+  }
+}

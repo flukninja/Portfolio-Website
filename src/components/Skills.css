@@ -1,0 +1,39 @@
+.Skills {
+    background-color: ghostwhite;
+    margin: 0 0 100px 0;
+  }
+
+  .Skills h1 {
+    /* font-size: 32px; */
+    text-align: center;
+    padding-top: 32px;
+    font-family: "Bebas Neue", sans-serif;
+    width: 660px;
+    margin-inline-start: 20px;
+    margin-bottom: 0;
+  }
+
+  .skill-gallary{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 32px 72px;
+    width: 900px;
+    margin-inline-start: 90px;
+  }
+
+  .gallary {
+    max-width: 300px;
+    /* background-color: white; */
+    flex-direction: column;
+    margin: 32px 16px;
+    /* padding-bottom: 32px; */
+  }
+  
+  .gallary img{
+    max-width: 70px;
+    /* height: auto; */
+    margin: 0;
+  }
+  
