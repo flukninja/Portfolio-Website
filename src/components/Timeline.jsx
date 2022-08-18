@@ -42,7 +42,7 @@ function Timeline() {
                   className={`button ${
                     isWorkIcon ? "workButton" : "schoolButton"
                   }`}
-                  href="/"
+                  href={element.site} target="_blank"
                 >
                   {element.buttonText}
                 </a>
