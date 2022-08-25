@@ -1,6 +1,17 @@
 let timelineElements = [
+  {
+    id: 1,
+    title: "FITPLUS-EXERCISE",
+    subTitle: "",
+    description:
+      "A pair project created an exercise tracker website for record a user activity. Developed by React.js, Express and MongoDB ",
+    buttonText: "View Project",
+    site: "https://fitplus-exercise.vercel.app/",
+    date: "Aug 2022",
+    icon: "work",
+  },
     {
-      id: 1,
+      id: 2,
       title: "JAMMMING",
       subTitle: "",
       description:
@@ -11,23 +22,14 @@ let timelineElements = [
       icon: "work",
     },
     {
-      id: 2,
-      title: "SUDOKU GAME",
-      subTitle: "",
-      description:
-        "A pair project created an object oriented programming sudoku game started and played via command line.",
-      // buttonText: "View Backend Projects",
-      date: "Oct 2019",
-      icon: "work",
-    },
-    {
       id: 3,
-      title: "PICTURE STOCK WEBSITE",
+      title: "COLMAR ACADEMY",
       subTitle: "",
       description:
-        "A group project created a website that store a user's pictures and showed on their gallery. Creating a feature for website that users can update and delete pictures and information about their pictures.",
-      // buttonText: "Company Website",
-      date: "Aug 2018",
+        "A project created a website homepage using HTML5 and CSS3.",
+      buttonText: "View Project",
+      site: "https://colmar-project.vercel.app/",
+      date: "Jun 2022",
       icon: "work",
     },
     {
