@@ -14,9 +14,9 @@ const Profile = (props) => {
         <span className={styles['text']}>
           <span>Tanakorn Muwinitkul</span>
         </span>
-        <span className={styles['text2']}>
+        {/* <span className={styles['text2']}>
           <span>Software Developer</span>
-        </span>
+        </span> */}
         <span className={styles['text4']}>
           <span>
             I am a graduate IT student with hardworking and passion to create an
