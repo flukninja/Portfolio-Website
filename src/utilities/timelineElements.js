@@ -44,6 +44,16 @@ let timelineElements = [
     },
     {
       id: 5,
+      title: "TRAILHEAD ACADEMY ASIA",
+      subTitle: "Salesforce depa Career Kickstarter Programme",
+      description:
+        "Short course training program for those who are interested in the Salesforce platform career",
+      // buttonText: "College Projects",
+      date: "Dec 2021 - Mar 2022",
+      icon: "school",
+    },
+    {
+      id: 6,
       title: "PRINCE OF SONGKLA UNIVERSITY",
       subTitle: "Bachelor of Science (ICT)",
       description:
@@ -53,7 +63,7 @@ let timelineElements = [
       icon: "school",
     },
     {
-      id: 6,
+      id: 7,
       title: "HATYAIWITTAYALAI SCHOOL",
       subTitle: "Science & Maths Programme",
       description:
